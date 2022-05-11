@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NicBac1
+- 👀🌱 I’m a new CS student in my first year of study. currently very interested in learning JSReact.
+- 📫 How to reach me ... Discord. Nick710#2234 
