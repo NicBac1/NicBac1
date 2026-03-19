@@ -12,19 +12,19 @@ I am a **Computer Science** senior at **Texas State University** (graduating Aug
 ### 🚀 Featured Engineering Projects
 *Currently migrating my portfolio to GitHub—check out my core repositories below:*
 
-- **🤟 ASL Detection System:** Real-time YOLOv8 model with **99.2% accuracy** for accessibility tech.
-- **🎬 AI Movie Discovery:** Full-stack React app using **GPT-4o** to translate natural language to SQL.
-- **📊 Global Health Analytics:** Extensive T-SQL and Tableau analysis of 10,000+ vaccination and travel records.
-- **📟 4-Bit ALU:** Verilog-based hardware simulation testing 12 distinct opcodes.
+- ** ASL Detection System:** Real-time YOLOv8 model with **99.2% accuracy** for accessibility tech.
+- ** AI Movie Discovery:** Full-stack React app using **GPT-4o** to translate natural language to SQL.
+- ** Global Health Analytics:** Extensive T-SQL and Tableau analysis of 10,000+ vaccination and travel records.
+- ** 4-Bit ALU:** Verilog-based hardware simulation testing 12 distinct opcodes.
 
 ---
 
-### Technical Toolkit
-[![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,mysql,postgres,react,nodejs,express,jest,html,css,tailwind,git,github,visualstudio,tableau)](https://skillicons.dev)
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,mysql,postgres,react,nodejs,express,jest,html,css,tailwind,git,github,visualstudio,tableau,opencv,pycharm,vscode,figma)](https://skillicons.dev)
 
 ### Studying & Certifications
 [![Learning](https://skillicons.dev/icons?i=aws,kubernetes,docker,pytorch)](https://skillicons.dev)
-- **Google Data Analytics Professional Certificate** (Completed 2026)
+- **Google Data Analytics Professional Certificate** (2026)
 - **AWS Cloud Practitioner** (In Progress)
 
 ---
@@ -38,11 +38,5 @@ I am a **Computer Science** senior at **Texas State University** (graduating Aug
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
-
----
-
-### Employer?
-> [!IMPORTANT]  
-> **[Download my latest Resume (PDF)](https://github.com/NicBac1/portfolio/raw/main/NicholasBacakosResume2026.pdf)** > *Note: Update the link above to your actual hosted resume file!*
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=120&section=footer" alt="footer"/>
