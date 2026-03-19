@@ -9,23 +9,6 @@ I’m a CS senior at **Texas State** (Aug '26) moving from a career in **Industr
 
 ---
 
-### 🛠 What I'm Building Right Now
-*My current focus is transitioning from local development to cloud-native infrastructure.*
-
-* **Self-Hosted Cloud:** Running a **K3s cluster** on a **Raspberry Pi 5**. Learning the hard way how to manage container orchestration, networking, and persistent storage outside of a managed provider.
-* **AWS Path:** Working through the **Solutions Architect** curriculum to map my hardware automation background to cloud infrastructure.
-* **Portfolio Migration:** Moving academic and personal projects from my university GitLab over to this public profile.
-
----
-
-### 🚀 Projects
-- **[ASL Detection System](https://github.com/NicBac1)**: Real-time YOLOv8 model trained on 4,700+ images. Hit **99.2% mAP50** accuracy.
-- **[AI Movie Discovery](https://github.com/NicBac1)**: React/Node.js app. Integrated **GPT-4o** to handle natural language SQL generation against a 45k record SQLite DB.
-- **[Global Health & Travel Data](https://github.com/NicBac1)**: T-SQL heavy lifting—CTEs and window functions to process 10k+ records for Tableau visualization.
-- **[4-Bit ALU](https://github.com/NicBac1)**: Verilog hardware logic. Tested 12 opcodes with GTKWave to catch subtraction and shift overflows.
-
----
-
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,mysql,postgres,react,nodejs,express,jest,html,css,tailwind,git,github,visualstudio,tableau,opencv,pycharm,vscode)](https://skillicons.dev)
 
