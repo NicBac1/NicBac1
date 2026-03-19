@@ -5,7 +5,7 @@
 </a>
 
 ### Currently
-I’m a CS senior at **Texas State** (Aug '26) moving from a career in **Industrial Robotics** into **Software Engineering** & **Data Science | Analytics**. I spent years optimizing FANUC and Wittmann robots on production floors; now I'm applying that focus on efficiency to distributed systems and AI pipelines.
+I’m a CS senior at **Texas State** ('26) moving from a career in **Industrial Robotics** into **Software Engineering** & **Data Science | Analytics**. I spent years optimizing FANUC and Wittmann robots on production floors; now I'm applying that focus on efficiency to distributed systems and AI pipelines.
 
 ---
 
