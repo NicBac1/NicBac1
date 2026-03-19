@@ -1,35 +1,40 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=500&color=3670A0&width=500&lines=Hello%2C+it's+Nicholas+Bacakos;Software+Engineer;Data+Analyst" alt="Professional Roles"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=500&color=3670A0&width=500&lines=Nicholas+Bacakos;Software+Engineering;Infrastructure+%2B+DevOps;Data+Analytics" alt="Roles"/>
 </a>
 
-### About Me
-I am a **Computer Science** senior at **Texas State University** (graduating August 2026). My background bridges the gap between high-level software development and low-level industrial automation. I specialize in building AI-integrated applications and performing deep-dive data analysis.
+### Currently
+I’m a CS senior at **Texas State** (Aug '26) moving from a career in **Industrial Robotics** into Software Engineering. I spent years optimizing FANUC and Wittmann robots on production floors; now I'm applying that focus on efficiency to distributed systems and AI pipelines.
 
 ---
 
-### 🚀 Featured Engineering Projects
-*Currently migrating my portfolio to GitHub—check out my core repositories below:*
+### 🛠 What I'm Building Right Now
+*My current focus is transitioning from local development to cloud-native infrastructure.*
 
-- ** ASL Detection System:** Real-time YOLOv8 model with **99.2% accuracy** for accessibility tech.
-- ** AI Movie Discovery:** Full-stack React app using **GPT-4o** to translate natural language to SQL.
-- ** Global Health Analytics:** Extensive T-SQL and Tableau analysis of 10,000+ vaccination and travel records.
-- ** 4-Bit ALU:** Verilog-based hardware simulation testing 12 distinct opcodes.
-
----
-
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,mysql,postgres,react,nodejs,express,jest,html,css,tailwind,git,github,visualstudio,tableau,opencv,pycharm,vscode,figma)](https://skillicons.dev)
-
-### Studying & Certifications
-[![Learning](https://skillicons.dev/icons?i=aws,kubernetes,docker,pytorch)](https://skillicons.dev)
-- **Google Data Analytics Professional Certificate** (2026)
-- **AWS Cloud Practitioner** (In Progress)
+* **Self-Hosted Cloud:** Running a **K3s cluster** on a **Raspberry Pi 5**. Learning the hard way how to manage container orchestration, networking, and persistent storage outside of a managed provider.
+* **AWS Path:** Working through the **Solutions Architect** curriculum to map my hardware automation background to cloud infrastructure.
+* **Portfolio Migration:** Moving academic and personal projects from my university GitLab over to this public profile.
 
 ---
 
-### Connect with me!
+### 🚀 Projects
+- **[ASL Detection System](https://github.com/NicBac1)**: Real-time YOLOv8 model trained on 4,700+ images. Hit **99.2% mAP50** accuracy.
+- **[AI Movie Discovery](https://github.com/NicBac1)**: React/Node.js app. Integrated **GPT-4o** to handle natural language SQL generation against a 45k record SQLite DB.
+- **[Global Health & Travel Data](https://github.com/NicBac1)**: T-SQL heavy lifting—CTEs and window functions to process 10k+ records for Tableau visualization.
+- **[4-Bit ALU](https://github.com/NicBac1)**: Verilog hardware logic. Tested 12 opcodes with GTKWave to catch subtraction and shift overflows.
+
+---
+
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,mysql,postgres,react,nodejs,express,jest,html,css,tailwind,git,github,visualstudio,tableau,opencv,pycharm,vscode)](https://skillicons.dev)
+
+### Learning
+[![Learning](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,ansible,terraform,pytorch)](https://skillicons.dev)
+
+---
+
+### Contact / Links
 <div>
     <a href="https://www.linkedin.com/in/nick-bacakos/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -38,5 +43,11 @@ I am a **Computer Science** senior at **Texas State University** (graduating Aug
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
+
+---
+
+### Employer?
+> [!IMPORTANT]  
+> **[Download Resume (PDF)](https://github.com/NicBac1/portfolio/raw/main/Nicholas_Bacakos_Resume.pdf)**
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=120&section=footer" alt="footer"/>
