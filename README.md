@@ -20,7 +20,7 @@ I am a **Computer Science** senior at **Texas State University** (graduating Aug
 ---
 
 ### Technical Toolkit
-[![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,mysql,postgres,react,nodejs,express,jest,html,css,tailwind,r,git,github,visualstudio,matlab,tableau)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,mysql,postgres,react,nodejs,express,jest,html,css,tailwind,git,github,visualstudio,tableau)](https://skillicons.dev)
 
 ### Studying & Certifications
 [![Learning](https://skillicons.dev/icons?i=aws,kubernetes,docker,pytorch)](https://skillicons.dev)
