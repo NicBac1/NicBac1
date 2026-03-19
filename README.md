@@ -31,6 +31,8 @@ I’m a CS senior at **Texas State** (Aug '26) moving from a career in **Industr
 
 ### Employer?
 > [!IMPORTANT]  
-> **[Download Resume (PDF)](https://github.com/NicBac1/portfolio/raw/main/Nicholas_Bacakos_Resume.pdf)**
+> **[Download Resume (PDF)](https://github.com/NicBac1/Resume/raw/main/NicholasBacakosResume2026-4.pdf)**
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=120&section=footer" alt="footer"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=120&section=footer" alt="footer"/>
