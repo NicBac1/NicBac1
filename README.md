@@ -10,7 +10,7 @@ I’m a CS senior at **Texas State** (Aug '26) moving from a career in **Industr
 ---
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,mysql,postgres,react,nodejs,express,jest,html,css,tailwind,git,github,visualstudio,tableau,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,mysql,postgres,react,nodejs,express,jest,html,css,tailwind,git,tableau,vscode)](https://skillicons.dev)
 
 ### Learning
 [![Learning](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,ansible,terraform,pytorch)](https://skillicons.dev)
